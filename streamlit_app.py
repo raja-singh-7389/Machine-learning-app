@@ -3,9 +3,21 @@ import numpy as np
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 
-st.title('🤖 Machine Learning App')
+st.title('Penguin Species Prediction App')
 
-st.info('This is app builds a machine learning model!')
+st.info(
+'''Penguin Species Prediction App
+
+Easily predict the species of penguins based on their physical measurements! This interactive app uses a machine learning model to classify penguin species using features like bill length, bill depth, flipper length, and body mass.
+
+Key Features:
+	•	Simple and intuitive interface.
+	•	Real-time predictions for three penguin species: Adelie, Chinstrap, and Gentoo.
+	•	Powered by Streamlit and machine learning.
+
+Discover the fascinating world of penguins with this user-friendly app!
+'''
+)
 
 with st.expander('Data'):
   st.write('**Raw data**')
