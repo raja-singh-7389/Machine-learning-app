@@ -11,8 +11,11 @@ st.info(
 Easily predict the species of penguins based on their physical measurements! This interactive app uses a machine learning model to classify penguin species using features like bill length, bill depth, flipper length, and body mass.
 
 Key Features:
+
 	•	Simple and intuitive interface.
+ 
 	•	Real-time predictions for three penguin species: Adelie, Chinstrap, and Gentoo.
+ 
 	•	Powered by Streamlit and machine learning.
 
 Discover the fascinating world of penguins with this user-friendly app!
