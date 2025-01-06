@@ -1,4 +1,4 @@
-# Machine Learning App
+# Penguin Species Prediction App
 
 Description of the app ...
 
