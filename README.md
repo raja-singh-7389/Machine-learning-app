@@ -30,10 +30,7 @@ Ensure you have the following installed:
 	•	pip (Python package manager)
 
 Setup
-	1.	Clone the repository:
-
-git clone https://github.com/your-username/penguin-species-prediction.git  
-cd penguin-species-prediction  
+	1.	Clone the repository
 
 
 	2.	Install dependencies:
