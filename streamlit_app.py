@@ -12,11 +12,11 @@ Easily predict the species of penguins based on their physical measurements! Thi
 
 Key Features:
 
-	•	Simple and intuitive interface.
+	-     Simple and intuitive interface.
  
-	•	Real-time predictions for three penguin species: Adelie, Chinstrap, and Gentoo.
+	-     Real-time predictions for three penguin species: Adelie, Chinstrap, and Gentoo.
  
-	•	Powered by Streamlit and machine learning.
+	-     Powered by Streamlit and machine learning.
 
 Discover the fascinating world of penguins with this user-friendly app!
 '''
